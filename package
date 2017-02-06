@@ -1,0 +1,5 @@
+pip install yamlns
+pip install requests
+pip install BeatifulSoup4
+pip install pymongo
+pip install ast
